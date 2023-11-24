@@ -1,7 +1,6 @@
 {
   "name": "photex-decorative-nastaliq",
   "version": "1.0.0",
-  "description": "",
   "main": "fonts.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +13,12 @@
   "author": "Ubaidullah Ghazi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gaazi/photex-decorative-nastaliq.git"
+    "url": "git+https://github.com/Gaazi/photex-decorative-nastaliq.git"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaazi/photex-decorative-nastaliq/issues"
+  },
+  "homepage": "https://github.com/Gaazi/photex-decorative-nastaliq#readme",
+  "description": ""
 }
