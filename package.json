@@ -1,5 +1,5 @@
 {
-  "name": "Photex-Decorative-Nastaliq",
+  "name": "photex-decorative-nastaliq",
   "version": "1.0.0",
   "description": "",
   "main": "fonts.css",
@@ -14,7 +14,7 @@
   "author": "Ubaidullah Ghazi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gaazi/Photex-Decorative-Nastaliq.git"
+    "url": "https://github.com/Gaazi/photex-decorative-nastaliq.git"
   },
   "license": "ISC"
 }
