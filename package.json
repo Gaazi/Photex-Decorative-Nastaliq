@@ -1,0 +1,20 @@
+{
+  "name": "Photex-Decorative-Nastaliq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fonts.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Photex-Decorative-Nastaliq",
+    "Urdu Fonts",
+    "Urdu Web Fonts"
+  ],
+  "author": "Ubaidullah Ghazi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gaazi/Photex-Decorative-Nastaliq.git"
+  },
+  "license": "ISC"
+}

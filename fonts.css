@@ -1,0 +1,20 @@
+/* Jameel Noori Nastaliq v4 */
+/* font link */
+/* https://unpkg.com/browse/jameel-noori@1.1.0/fonts/jameel-noori-nastaleeq4.woff2 */
+@font-face {
+  font-family: "Photex-Decorative-Nastaliq";
+  src: url(https://cdn.jsdelivr.net/npm/Photex-Decorative-Nastaliq/fonts/Photex-Decorative-Nastaliq.woff2) format('woff2'),
+       url(https://unpkg.com/Photex-Decorative-Nastaliq/fonts/Photex-Decorative-Nastaliq.woff2) format('woff2');
+}
+  /* CSS Aplly */
+body {
+    font-family: "Photex-Decorative-Nastaliq";
+}
+.post-title {
+  font-family: "Photex-Decorative-Nastaliq";
+}
+
+.post-body {
+      font-family: "Photex-Decorative-Nastaliq";
+}   
+
